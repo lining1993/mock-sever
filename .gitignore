@@ -1,0 +1,12 @@
+.DS_Store
+*.iml
+*.ipr
+*.iws
+target/
+out/
+bin/
+build/
+#src/main/resources/config-production/
+.idea/
+logs
+temp
